@@ -12,16 +12,16 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = "magetool",
+    name = "testtool",
     version = "0.1.41",
     keywords = ("pathtool","timetool", "magetool", "mage"),
     description = "time and path tool",
     long_description = "time and path tool",
     license = "MIT Licence",
 
-    url = "https://github.com/fengmm521/pipProject",
-    author = "mage",
-    author_email = "mage@woodcol.com",
+    url = "https://github.com/1294936122/test",
+    author = "jack_chen",
+    author_email = "1390212397@qq.com",
 
     packages = find_packages(),
     include_package_data = True,
